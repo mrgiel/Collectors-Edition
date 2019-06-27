@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\bin\Release\Database1.mdf
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\bin\Release\Database1_log.ldf
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\bin\Release\DesktopApp1.exe.config
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\bin\Release\DesktopApp1.exe
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\bin\Release\DesktopApp1.pdb
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\bin\Release\MySql.Data.dll
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\bin\Release\Google.Protobuf.dll
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\bin\Release\MySql.Data.xml
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.MainPage.resources
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.Properties.Resources.resources
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.VerzamelPage.resources
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.csproj.CopyComplete
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.exe
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.pdb
+C:\Users\HP\source\repos\Collectors-Edition\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.csprojAssemblyReference.cache
